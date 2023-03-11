@@ -14,7 +14,7 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # (todo:Project Title)
+ # (Hexagon Quic)
 
 <!--- 
 SUMMARY
