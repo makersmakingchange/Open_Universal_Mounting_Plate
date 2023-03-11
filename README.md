@@ -14,13 +14,13 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # (Hexagon Quic)
+ # Hexagon Quick Mount
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
+The Hexagon Quick Mount is a simple mounting option for assistive devices that do not have integrated mounting hardware. This device uses hook and loop fastener strips to attach to an assistive device allowing it to be mounted with standard ¼”-20 mounts, like those found on readily available camera mounting accessories.
 
 <!--- 
 PHOTO
