@@ -1,7 +1,7 @@
 # Hexagon Quick Mount
 The Hexagon Quick Mount is a simple mounting option for assistive devices that do not have integrated mounting hardware. This device uses hook and loop fastener strips to attach to an assistive device allowing it to be mounted with standard ¼”-20 mounts, like those found on readily available camera mounting accessories.
 
-<img src="Photos/Mounted Switches.jpg" width="500" alt="Picture of Device-Name.">
+<img src="Photos/Mounted Switches.jpg" width="500" alt="A 3D printed hexagon mounting plate holding two assistive switches">
 
 ## More info at
 - [Makers Making Change Project Page](<Add link>)
@@ -53,6 +53,7 @@ Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pd
 | 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/Device-Name_3D_Printing_Guide_v1.0.pdf)     |
 | Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf)     |
 | User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Device-Name_User_Guide_v1.0.pdf)    |
+| Sizing Chart         | 1.0     | [DeviceName_Sizing_Chart](/Documentation/Device-Name_Sizing_Chart.pdf)     |
 | Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
 
 ### Design Files
@@ -62,9 +63,8 @@ Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pd
  - [3D Printing Files](/Build_Files/3D_Printing)
 
 ## Attribution
-Designers:
- - Designer 1 
- - Designer 2
+
+Design and documentation by Makers Making Change. 
 
 
 
