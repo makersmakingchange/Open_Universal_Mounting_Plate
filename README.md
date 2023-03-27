@@ -1,21 +1,21 @@
-# Hexagon Quick Mount
-The Hexagon Quick Mount is a simple mounting option for assistive devices that do not have integrated mounting hardware. This device uses hook and loop fastener strips to attach to an assistive device allowing it to be mounted with standard ¼”-20 mounts, like those found on readily available camera mounting accessories.
+#  Open Universal Mounting Plate
+The Open Universal Mounting Plate is a simple mounting option for assistive devices that do not have integrated mounting hardware. This device uses hook and loop fastener strips to attach to an assistive device allowing it to be mounted with standard ¼”-20 mounts, like those found on readily available camera mounting accessories.
 
 <img src="Photos/Mounted Switches.jpg" width="500" alt="A 3D printed hexagon mounting plate holding two assistive switches">
 
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/open-universal-mounting-plate)
 - [Makers Making Change Forum Thread](<Add link>)
 
 
-## How to Obtain a <Device-Name>
+## How to Obtain an Open Universal Mounting Plate
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the <Device-Name> are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Open Universal Mounting Plate are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain a <Device-Name> , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/device-name/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain an Open Universal Mounting Plate, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/open-universal-mounting-plate/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -30,7 +30,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Device-Name_BOM.xlsx) lists all of the parts and components required to build the <Device-Name>. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The [Bill of Materials](/Documentation/Open_Universal_Mounting_Plate_BOM.xlsx) lists all of the parts and components required to build the Open Universal Mounting Plate. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
 
 
 ### 3. Print the 3D Printable components
@@ -39,7 +39,7 @@ Print the components ...
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-### 4. Assemble the <Device-Name>...
+### 4. Assemble the Open Universal Mounting Plate...
 
 Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
@@ -69,7 +69,7 @@ Design and documentation by Makers Making Change.
 
 
 ## License
-Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the Open Universal Mounting Plate is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
