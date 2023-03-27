@@ -37,9 +37,9 @@ The [Bill of Materials](/Documentation/Open_Universal_Mounting_Plate_BOM.xlsx) l
 
 ### 3. Print the 3D Printable components
 
-Refer to the [Sizing Chart](/Documentation/Open_Universal_Mounting_Platee_Sizing_Chart.pdf) to determine the correct configuration and corresponding print files.
+Refer to the [Sizing Chart](/Documentation/Open_Universal_Mounting_Plate_Sizing_Chart.pdf) to determine the correct configuration and corresponding print files.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 4. Assemble the Open Universal Mounting Plate...
 
@@ -51,18 +51,18 @@ Reference the [Assembly Guide](/Documentation/Open_Universal_Mounting_Plate_Asse
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Open_Universal_Mounting_Plate_Design_Rationale](/Documentation/Open_Universal_Mounting_Plate_Design_Rationale.pdf)     |
 | Maker Checklist      | 1.0     | [Open_Universal_Mounting_Plate_Maker_Checklist](/Documentation/Open_Universal_Mounting_Plate_Maker_Checklist.pdf)     |
-| Bill of Materials    | 1.0     | [Open_Universal_Mounting_Plate_Bill_of_Materials](/Documentation/Open_Universal_Mounting_Plate_BOM_.xlsx)     |
+| Bill of Materials    | 1.0     | [Open_Universal_Mounting_Plate_Bill_of_Materials](/Documentation/Open_Universal_Mounting_Plate_BOM.xlsx)     |
 | 3D Printing Guide    | 1.0     | [Open_Universal_Mounting_Plate_3D_Printing_Guide](/Documentation/Open_Universal_Mounting_Plate_3D_Printing_Guide.pdf)     |
 | Assembly Guide       | 1.0     | [Open_Universal_Mounting_Plate_Assembly_Guide](/Documentation/Open_Universal_Mounting_Plate_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Open_Universal_Mounting_Plate_User_Guide](/Documentation/Open_Universal_Mounting_Plate_User_Guide.pdf)    |
-| Sizing Chart         | 1.0     | [Open_Universal_Mounting_Plate_Sizing_Chart](/Documentation/Open_Universal_Mounting_Platee_Sizing_Chart.pdf)     |
+| Sizing Chart         | 1.0     | [Open_Universal_Mounting_Plate_Sizing_Chart](/Documentation/Open_Universal_Mounting_Plate_Sizing_Chart.pdf)     |
 | Changelog            | 1.0     | [Open_Universal_Mounting_Plate_Changelog](/Documentation/Open_Universal_Mounting_Plate_Changelog.pdf)     |
 
 ### Design Files
 - [CAD Files](/Design_Files)
 
 ### Build Files
-- [3D Printing Files](/Build_Files/3D_Printing)
+- [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 
