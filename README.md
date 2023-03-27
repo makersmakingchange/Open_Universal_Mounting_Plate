@@ -5,8 +5,10 @@ The Open Universal Mounting Plate is a simple mounting option for assistive devi
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/open-universal-mounting-plate)
-- [Makers Making Change Forum Thread](<Add link>)
 
+<!---
+- [Makers Making Change Forum Thread](<Add link>)
+--->
 
 ## How to Obtain an Open Universal Mounting Plate
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -30,49 +32,46 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Open_Universal_Mounting_Plate_BOM.xlsx) lists all of the parts and components required to build the Open Universal Mounting Plate. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The [Bill of Materials](/Documentation/Open_Universal_Mounting_Plate_BOM.xlsx) lists all of the parts and components required to build the Open Universal Mounting Plate. The off-the-shelf components are are available online or may be available in smaller quantities at your local hardware store or dollar store.
 
 
 ### 3. Print the 3D Printable components
 
-Print the components ...
+Refer to the [Sizing Chart](/Documentation/Open_Universal_Mounting_Platee_Sizing_Chart.pdf) to determine the correct configuration and corresponding print files.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
 ### 4. Assemble the Open Universal Mounting Plate...
 
-Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Open_Universal_Mounting_Plate_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Device-Name_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Device-Name_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Device-Name_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/Device-Name_3D_Printing_Guide_v1.0.pdf)     |
-| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Device-Name_User_Guide_v1.0.pdf)    |
-| Sizing Chart         | 1.0     | [DeviceName_Sizing_Chart](/Documentation/Device-Name_Sizing_Chart.pdf)     |
-| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [Open_Universal_Mounting_Plate_Design_Rationale](/Documentation/Open_Universal_Mounting_Plate_Design_Rationale.pdf)     |
+| Maker Checklist      | 1.0     | [Open_Universal_Mounting_Plate_Maker_Checklist](/Documentation/Open_Universal_Mounting_Plate_Maker_Checklist.pdf)     |
+| Bill of Materials    | 1.0     | [Open_Universal_Mounting_Plate_Bill_of_Materials](/Documentation/Open_Universal_Mounting_Plate_BOM_.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Open_Universal_Mounting_Plate_3D_Printing_Guide](/Documentation/Open_Universal_Mounting_Plate_3D_Printing_Guide.pdf)     |
+| Assembly Guide       | 1.0     | [Open_Universal_Mounting_Plate_Assembly_Guide](/Documentation/Open_Universal_Mounting_Plate_Assembly_Guide.pdf)     |
+| User Guide           | 1.0     | [Open_Universal_Mounting_Plate_User_Guide](/Documentation/Open_Universal_Mounting_Plate_User_Guide.pdf)    |
+| Sizing Chart         | 1.0     | [Open_Universal_Mounting_Plate_Sizing_Chart](/Documentation/Open_Universal_Mounting_Platee_Sizing_Chart.pdf)     |
+| Changelog            | 1.0     | [Open_Universal_Mounting_Plate_Changelog](/Documentation/Open_Universal_Mounting_Plate_Changelog.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files)
+- [CAD Files](/Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+- [3D Printing Files](/Build_Files/3D_Printing)
 
 ## Attribution
 
 Design and documentation by Makers Making Change. 
 
-
-
 ## License
 Everything needed or used to design, make, test, or prepare the Open Universal Mounting Plate is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
-
 
 ---
 
