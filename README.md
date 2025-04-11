@@ -1,7 +1,7 @@
 #  Open Universal Mounting Plate
 The Open Universal Mounting Plate is a simple mounting option for assistive devices that do not have integrated mounting hardware. This device uses hook and loop fastener strips to attach to an assistive device allowing it to be mounted with standard ¼”-20 mounts, like those found on readily available camera mounting accessories.
 
-<img src="Photos/Open_universal_Mounting_Plate.jpg" width="500" alt="A 3D printed hexagon mounting plate holding two assistive switches">
+<img src="Photos/Open_Universal_Mounting_Plate.jpg" width="500" alt="A 3D printed hexagon mounting plate holding two assistive switches">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/open-universal-mounting-plate)
