@@ -1,14 +1,11 @@
 #  Open Universal Mounting Plate
 The Open Universal Mounting Plate is a simple mounting option for assistive devices that do not have integrated mounting hardware. This device uses hook and loop fastener strips to attach to an assistive device allowing it to be mounted with standard ¼”-20 mounts, like those found on readily available camera mounting accessories.
 
-<img src="Photos/Mounted Switches.jpg" width="500" alt="A 3D printed hexagon mounting plate holding two assistive switches">
+<img src="Photos/Open_universal_Mounting_Plate.jpg" width="500" alt="A 3D printed hexagon mounting plate holding two assistive switches">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/open-universal-mounting-plate)
 
-<!---
-- [Makers Making Change Forum Thread](<Add link>)
---->
 
 ## How to Obtain an Open Universal Mounting Plate
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -71,10 +68,10 @@ Design and documentation by Makers Making Change.
 ## License
 Everything needed or used to design, make, test, or prepare the Open Universal Mounting Plate is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Open Universal Mounting Plate are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -92,3 +89,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
